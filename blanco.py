@@ -1,7 +1,7 @@
 # Script en Python para contar del 1 al 2027 usando una función
 
 def contar():
-    for numero in range(1, 2028):
+    for numero in range(1, 2, 25):
         print(numero)
 contar()
 
