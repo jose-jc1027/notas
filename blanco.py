@@ -3,7 +3,6 @@
 def contar():
     for numero in range(1, 2, 25):
         print(numero)
-contar()
 
 class Hola:
     """Clase que solicita nombre y edad del usuario al instanciarse."""
